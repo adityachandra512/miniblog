@@ -3,6 +3,8 @@
 
 Welcome to the **Mini Blog**! This project is a permission-based blogging platform built using Django for both the frontend and backend. It includes a robust admin panel, allowing different types of users to manage blog posts based on their roles.
 
+---
+
 ## 📖 Features
 
 ### User Roles
@@ -30,16 +32,37 @@ Welcome to the **Mini Blog**! This project is a permission-based blogging platfo
 ---
 
 ## 🛠️ Technologies Used
-- **Python**: Backend logic
-- **Django**: Web framework
-- **Django REST Framework**: API connection
-- **SQLite** (default): Database
+
+| **Technology**    | **Purpose**                    |
+|--------------------|--------------------------------|
+| **Python**         | Backend logic                 |
+| **Django**         | Web framework                 |
+| **Django REST Framework** | API connection           |
+| **SQLite**         | Default database              |
+| **Bootstrap**      | Styling and responsiveness    |
+| **jQuery**         | Frontend interaction and AJAX |
+
+---
+
+## 🖼️ Screenshots
+
+### 1. Home Page
+![Home Page](static/image/Screenshot 2024-11-25 232705.png)  
+*The main page showcases the blog posts and an easy navigation layout.*
+
+### 2. Blog Post View
+![Blog View](static/image/Screenshot 2024-11-25 232754.png)  
+*View individual blog posts with options to edit or delete (for authors).*
+
+### 3. Admin Panel
+![Admin Panel](static/image/Screenshot 2024-11-25 233519.png)  
+*Efficient management of users and blog posts.*
+
+Add your screenshots to the appropriate `static/` directory or provide URLs for hosted images.
 
 ---
 
 ## 🚀 Getting Started
-
-Follow these steps to set up and run the project on your local machine:
 
 ### Prerequisites
 1. Install Python (3.8 or higher) from [python.org](https://www.python.org/downloads/).
@@ -154,14 +177,12 @@ Contributions are welcome! To contribute:
 ## 📧 Contact
 
 For queries or suggestions, feel free to contact:
-- **Your Name**
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Aditya Chandra**
+- **Email**: adityachandra419@gmail.com
+- **GitHub**: [adityachandra512](https://github.com/adityachandra512)
 
 ---
 
 ### 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Happy coding! 🎉
