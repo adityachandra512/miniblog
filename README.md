@@ -47,15 +47,15 @@ Welcome to the **Mini Blog**! This project is a permission-based blogging platfo
 ## 🖼️ Screenshots
 
 ### 1. Home Page
-![Home Page](static/image/Screenshot 2024-11-25 232705.png)  
+![Home Page](blog/static/blog/image/homepage.png)  
 *The main page showcases the blog posts and an easy navigation layout.*
 
-### 2. Blog Post View
-![Blog View](static/image/Screenshot 2024-11-25 232754.png)  
+### 2. Dashboard
+![Blog View](blog/static/blog/image/Dashboard.png)  
 *View individual blog posts with options to edit or delete (for authors).*
 
 ### 3. Admin Panel
-![Admin Panel](static/image/Screenshot 2024-11-25 233519.png)  
+![Admin Panel](blog/static/blog/image/Adminpage.png)  
 *Efficient management of users and blog posts.*
 
 Add your screenshots to the appropriate `static/` directory or provide URLs for hosted images.
