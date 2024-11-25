@@ -58,8 +58,6 @@ Welcome to the **Mini Blog**! This project is a permission-based blogging platfo
 ![Admin Panel](blog/static/blog/image/Adminpage.png)  
 *Efficient management of users and blog posts.*
 
-Add your screenshots to the appropriate `static/` directory or provide URLs for hosted images.
-
 ---
 
 ## 🚀 Getting Started
@@ -79,7 +77,7 @@ Add your screenshots to the appropriate `static/` directory or provide URLs for 
 1. **Clone the Repository**  
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/mini-blog.git
+   https://github.com/adityachandra512/miniblog.git
    ```
    Navigate into the project folder:
    ```bash
