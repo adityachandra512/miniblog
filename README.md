@@ -34,13 +34,13 @@ Welcome to the **Mini Blog**! This project is a permission-based blogging platfo
 ## 🛠️ Technologies Used
 
 | **Technology**    | **Purpose**                    |
-|--------------------|--------------------------------|
+|--------------------|-------------------------------|
 | **Python**         | Backend logic                 |
 | **Django**         | Web framework                 |
-| **Django REST Framework** | API connection           |
+| **Django REST Framework** | API connection         |
 | **SQLite**         | Default database              |
 | **Bootstrap**      | Styling and responsiveness    |
-| **jQuery**         | Frontend interaction and AJAX |
+| **jQuery**         | Frontend interaction          |
 
 ---
 
